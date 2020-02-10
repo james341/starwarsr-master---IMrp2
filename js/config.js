@@ -131,7 +131,7 @@ var l_messages = [
         "NEVER hurt a brother in any way. Never shoot or handcuff another clone trooper, Unless given orders from a commander you may cuff a “rogue” clone!",
         "An individual may opt out of an event if they do not wish to participate, but may not actively attempt to stop the event outside of roleplay. No one can be forced to sit out of an event!",
         "All donations are Subject to all regular server rules, Donations will in no way grant any form of immunity against punishment and can be retracted if the transgressions have been sufficiently deemed as requiring such!", 
-        "RP simply stands for Roleplay, When you take up a job, character, or persona that you act out "in character" on the server and generally just play as a role like the name implies. Star Wars RP is literally this but set in the atmosphere and (usually) timeline of the Star Wars Universe!",
+        "RP simply stands for Roleplay, When you take up a job, character, or persona that you act out in character on the server and generally just play as a role like the name implies. Star Wars RP is literally this but set in the atmosphere and (usually) timeline of the Star Wars Universe!",
         "You may opt out of being in an event but you MUST not get in the way of the event, as well you cannot use any authority you have to tell others they cannot participate just because you don't wish to!",
         "Never assault an innocent/ally. If attacked you may defend yourself. NOTE: You must be DAMAGED! (not just blinded/pushed) in order to defend yourself!",
         "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
