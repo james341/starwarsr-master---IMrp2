@@ -124,13 +124,13 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Do not land or fly out of the Venator without Venator Crew's Permissions!",
+	"As soon as you obtain a disguise you then have republic communications (Weapons and equipment not included!",
 	"Do not turn off/destroy ship modules for any reason. Doing so may result in an arrest, warn, or ban, as different modules carry different punishments!",
-	"Jedi takes priority in Sith fights/Lightsaber duels. Clones should NOT fire when a Sith and Jedi are Fighting!",
+	"You must not use any homophobic, racist or offensive language In character (IC) or out of character(OOC)!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "NEVER hurt a brother in any way. Never shoot or handcuff another clone trooper, Unless given orders from a commander you may cuff a “rogue” clone!",
         "An individual may opt out of an event if they do not wish to participate, but may not actively attempt to stop the event outside of roleplay. No one can be forced to sit out of an event!",
-        "All donations are subject to all regular server rules, donations will in no way grant any form of immunity against punishment and can be retracted if the transgressions have been sufficiently deemed as requiring such!", 
+        "All donations are Subject to all regular server rules, Donations will in no way grant any form of immunity against punishment and can be retracted if the transgressions have been sufficiently deemed as requiring such!", 
         "Jedi that are listed as officers within their linked battalion have all the privileges of  an officer. This includes claiming rooms, accessing AOS Areas, giving PTS, etc!",
         "You may opt out of being in an event but you MUST not get in the way of the event, as well you cannot use any authority you have to tell others they cannot participate just because you don't wish to!",
         "Never assault an innocent/ally. If attacked you may defend yourself. NOTE: You must be DAMAGED! (not just blinded/pushed) in order to defend yourself!",
@@ -139,15 +139,15 @@ var l_messages = [
         "To join anything other than clone trooper, you must be in our Teamspeak at ts.gaminglight.com! (This includes donator battalions!",
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "Donations can not be refunded, swapped or exchanged unless with explicit circumstances and discussion with the executive members of the staff team, such situations (an unforeseen issue has appeared with the product, such as a broken model!",
-        "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
-        "You must follow all Jedi Guidelines and Rules within the Jedi Order!",
+        "Cheating will result in an automatic or Permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
+        "If you wish to transfer your rank to another regiment you must speak with the necessary Battalion member OOC Regimental disrespect is not permitted!",
         "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
-        "Under no circumstances may a Jedi use a gun/grenades/stim kits. Lightsaber and Knives/fists Only!",
+        "Anything that is considered detrimental to the roleplay of any situation by a staff member is to be Respected!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
-        "Whenever the General Cards walks into a room/past the commanding officer will say General on Deck and everyone will salute and stand to attention until told at ease or given further instructions!",
+        "Any attempts of scamming or misleading players / staff will result in a harsh punishment!",
         "Certain Fleet Ranks can demote and promote anyone except Jedi and only Jedi. Inform a troopers commander about a demotion or promotion every time!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
-        "Names must be player appropriate and must not be lore character names, nor ranks from the current Star Wars Universe. Staff have discretion on what is and is not appropriate!",
+        "Random Death Matching (RDM) is not allowed You must always stay in character and role play every situation that you come across, otherwise this will be considered Fail Role Play (FailRP)!",
         "Spoilers on Star Wars films or TV shows within their first month of release will result in a minimum one week Ban!"
 ];
 /*Random message order?*/
