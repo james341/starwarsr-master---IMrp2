@@ -63,6 +63,10 @@ var l_bgImages = [
         "image8.jpg",
         "image9.jpg",
         "image10.jpg",
+        "image11.jpg",
+        "image12.jpg",
+        "image13.jpg",
+        "image14.jpg",
 ];
 
 /*Random background images order?*/
@@ -97,13 +101,13 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "ObtiFpMNFuU", name: "Atlas - Installation Music"},
-	{youtube: "", name: "Atlas - Installation Music"},
-        {youtube: "", name: "Atlas - Installation Music"},
+	{youtube: "LEn7gXwRgB4", name: "Atlas - Installation Music"},
+        {youtube: "hEcjgJSqSRU", name: "Atlas - Installation Music"},
         {youtube: "", name: "Atlas - Installation Music"},
         {youtube: "z13qjYsWrN0", name: "Atlas - Installation Music"},
         {youtube: "", name: "Atlas - Installation Music"},
         {youtube: "", name: "Atlas - Installation Music"},
-        {youtube: "", name: "Atlas - Installation Music"},
+        {youtube: "qSgJeVwjnpc", name: "Atlas - Installation Music"},
         {youtube: "f0ixP0qsLrs", name: "Atlas - Installation Music"},
 
 ];
