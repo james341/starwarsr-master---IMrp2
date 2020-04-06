@@ -100,15 +100,15 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "ObtiFpMNFuU", name: "Adonis - Installation Music"},
-	{youtube: "LEn7gXwRgB4", name: "Adonis - Installation Music"},
-        {youtube: "hEcjgJSqSRU", name: "Adonis - Installation Music"},
-        {youtube: "IIrCDAV3EgI", name: "Adonis - Installation Music"},
-        {youtube: "z13qjYsWrN0", name: "Adonis - Installation Music"},
-        {youtube: "qeIkbW49B6A", name: "Adonis - Installation Music"},
-        {youtube: "n2oTA5JSk80", name: "Adonis - Installation Music"},
-        {youtube: "qSgJeVwjnpc", name: "Adonis - Installation Music"},
-        {youtube: "f0ixP0qsLrs", name: "Adonis - Installation Music"},
+	{youtube: "", name: ""},
+	{youtube: "", name: ""},
+        {youtube: "", name: ""},
+        {youtube: "", name: ""},
+        {youtube: "", name: ""},
+        {youtube: "", name: ""},
+        {youtube: "", name: ""},
+        {youtube: "", name: ""},
+        {youtube: "", name: ""},
 
 ];
 
