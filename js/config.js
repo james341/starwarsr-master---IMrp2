@@ -104,10 +104,10 @@ var l_musicPlaylist = [
 	{youtube: "lKZdH5AA9XA&t", name: ""},
         {youtube: "0kWAtHWzxnA", name: ""},
         {youtube: "Lt7n7KmnR-I", name: ""},
-        {youtube: "", name: ""},
-        {youtube: "", name: ""},
-        {youtube: "", name: ""},
-        {youtube: "", name: ""},
+        {youtube: "liIjr6AGOZo", name: ""},
+        {youtube: "6FeM9gsbjWU", name: ""},
+        {youtube: "hzNRl6emK90", name: ""},
+        {youtube: "gtpAwaovPB4", name: ""},
         {youtube: "", name: ""},
 
 ];
